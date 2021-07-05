@@ -2,7 +2,7 @@
 
 Ejemplo:
 
-```
+```js
     const initialForm = {
         name: '',
         age: 0,
